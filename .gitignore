@@ -28,7 +28,6 @@ app-bundle.js
 bin/
 build/
 certs/*Ness*.jks
-data/
 infrastructure/**/*config.y*ml
 infrastructure/**/*output.y*ml
 logs/
